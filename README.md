@@ -28,3 +28,5 @@ Merge Sort: Divides the array into two halves, recursively sorts the two halves,
 Radix Sort: Sorts numbers by processing individual digits. It sorts the numbers from the least significant digit to the most significant digit.
 Count Sort: Sorts elements based on their count occurrences in the input array.
 Bucket Sort: Distributes elements into a number of buckets, then sorts the elements in each bucket and merges them back.
+
+These algorithms are visualized step-by-step using graphical elements to help users understand their workings better.
